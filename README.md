@@ -120,5 +120,5 @@ Raw data → Clean data → Analysis → Insights → Visualization
 
   ## 📊 Dashboard Preview
 
-![Dashboard Overview](images/Dashboardimages.png)
+![Dashboard Overview](sales-performance-analysis/images/Dashboardimages.png).
 
