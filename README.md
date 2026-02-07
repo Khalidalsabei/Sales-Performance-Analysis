@@ -117,3 +117,8 @@ Raw data → Clean data → Analysis → Insights → Visualization
 - Name: Khalid Alsabei  
 - Role: Data Analyst  
 - Tools: SQL | Power BI | DAX
+
+  ## 📊 Dashboard Preview
+
+![Dashboard Overview](images/Dashboardimages.png)
+
