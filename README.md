@@ -7,6 +7,14 @@ The analysis was conducted using **SQL for data cleaning and validation** and **
 
 The main objective is to transform raw transactional data into actionable insights that support data-driven business decisions.
 
+
+---
+
+
+ ##  Dashboard Preview
+
+![Dashboard Overview](sales-performance-analysis/images/Dashboardimages.png).
+
 ---
 
 ##  Dataset Description
@@ -118,7 +126,4 @@ Raw data → Clean data → Analysis → Insights → Visualization
 - Role: Data Analyst  
 - Tools: SQL | Power BI | DAX
 
-  ## 📊 Dashboard Preview
-
-![Dashboard Overview](sales-performance-analysis/images/Dashboardimages.png).
-
+ 
